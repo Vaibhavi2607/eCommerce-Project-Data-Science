@@ -1,0 +1,16 @@
+# These are the libraries required to run the project
+
+# Core libraries
+pandas
+numpy
+
+# Visualization
+matplotlib
+seaborn
+
+# Machine Learning
+scikit-learn
+
+# Jupyter Notebook environment
+notebook
+jupyterlab
